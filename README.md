@@ -15,7 +15,7 @@ Click Next.
 Add Constraints: Skip this step by clicking Next (since no constraints are needed for simulation). 
 Default Part Selection: You can choose a part based on the FPGA board you are using (if any). 
 If no board is used, you can choose any part, for example, xc7a35ticsg324-1L (Artix-7). 
-Click Next, then Finish.
+Click Next, then Finish. 
 Add Verilog Source Files In the "Sources" window, right-click on "Design Sources" and select Add Sources if you didn't add all files earlier.
 Add the Verilog files and the testbench. 
 Check Syntax Expand the "Flow Navigator" on the left side of the Vivado interface. 
