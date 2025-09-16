@@ -1,4 +1,4 @@
-# Flipflop-using-Blocking-and-Non-blocking-Assignments
+   # Flipflop-using-Blocking-and-Non-blocking-Assignments
 Exp 3 -Write and simulate D, SR, JK, T Flipflops using Blocking and Non blocking Assignments
    Aim: To design and simulate D, SR, JK, T Flipflops using Blocking and Non blocking Assignments in Verilog HDL and verify its functionality through a testbench using the Vivado 2023.1 simulation environment.
    
@@ -41,9 +41,33 @@ T FF
 
 RTL Code:
 
+D FF
+
+SR FF
+
+JK FF
+
+T FF
+
 TestBench:
 
+D FF
+
+SR FF
+
+JK FF
+
+T FF
+
 Output waveform:
+
+D FF
+
+SR FF
+
+JK FF
+
+T FF
 
 Conclusion:
 
