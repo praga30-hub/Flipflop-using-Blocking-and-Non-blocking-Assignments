@@ -197,12 +197,20 @@ endmodule
 Output waveform:
 
 D FF
+![dff](https://github.com/user-attachments/assets/220c0afc-5fa7-44e4-a969-7fb6e3632569)
+
 
 SR FF
+![srff](https://github.com/user-attachments/assets/dc11e4e0-80cd-4374-b346-6e7b5875ecf8)
+
 
 JK FF
+![jkff](https://github.com/user-attachments/assets/686fa85a-ab14-44e1-9255-5df0f367f694)
+
 
 T FF
+![tff](https://github.com/user-attachments/assets/6702d0bd-3279-4a9d-bd89-2795384ae57c)
+
 
 Conclusion:
 thus the respected output of the flip flop is successfully verified.
